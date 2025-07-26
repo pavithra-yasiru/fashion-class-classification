@@ -88,10 +88,11 @@ Implemented a **Convolutional Neural Network (CNN)**:
 
 ```
 Fashion-MNIST-Classification/
-│── Fashion MNIST.ipynb     # Jupyter notebook with code
-│── README.md               # Project documentation
-│── requirements.txt        # Dependencies
-│── plots/                  # (Optional) Folder for saved accuracy/loss/confusion matrix images
+│── Fashion MNIST.ipynb             # Jupyter notebook with code
+│── README.md                       # Project documentation
+│── requirements.txt                # Dependencies
+│── fashion-mnist_train_part{i}.csv # Training data sets (need to append)
+│── fashion-mnist_test.csv          # Test data set
 ```
 
 ---
