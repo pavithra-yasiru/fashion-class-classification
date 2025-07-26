@@ -101,8 +101,8 @@ Fashion-MNIST-Classification/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/Fashion-MNIST-Classification.git
-cd Fashion-MNIST-Classification
+git clone https://github.com/pavithra-yasiru/fashion-class-classification.git
+cd fashion-class-classification
 ```
 
 ### 2. Install dependencies
